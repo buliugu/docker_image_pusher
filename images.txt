@@ -1,1 +1,1 @@
-neo4j:4.4.44-community
+dbgpt-openai:latest
