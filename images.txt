@@ -1,1 +1,2 @@
-enmotech/opengauss-lite:latest
+ghcr.io/ferretdb/postgres-documentdb:17-0.106.0-ferretdb-2.6.0
+ghcr.io/ferretdb/ferretdb:2.6.0
