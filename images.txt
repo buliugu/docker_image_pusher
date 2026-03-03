@@ -1,1 +1,1 @@
-vllm/vllm-openai:nightly
+lmsysorg/sglang:latest
