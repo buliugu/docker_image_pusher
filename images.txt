@@ -1,2 +1,15 @@
-ghcr.io/ferretdb/postgres-documentdb:17-0.106.0-ferretdb-2.5.0
-ghcr.io/ferretdb/ferretdb:2.5.0
+mysql:8.4.2
+redis:7.2.4-alpine3.19
+alpine:latest
+clickhouse/clickhouse-server:25.3.6.56-alpine
+zookeeper:3.9.4
+minio/minio:RELEASE.2025-03-12T18-04-18Z
+minio/mc:RELEASE.2025-03-12T17-29-24Z
+ghcr.io/comet-ml/opik/opik-backend:latest
+ghcr.io/comet-ml/opik/opik-python-backend:latest
+ghcr.io/comet-ml/opik/opik-guardrails-backend:latest
+ghcr.io/comet-ml/opik/opik-ai-backend:latest
+ghcr.io/comet-ml/opik/opik-python-backend:latest
+ghcr.io/comet-ml/opik/opik-frontend:latest
+jaegertracing/all-in-one:latest
+otel/opentelemetry-collector-contrib:0.139.0
