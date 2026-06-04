@@ -1,1 +1,1 @@
-vllm/vllm-openai:qwen3_5
+vllm/vllm-omni:v0.22.0
